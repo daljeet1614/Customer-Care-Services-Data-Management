@@ -1,0 +1,140 @@
+Customer	Gender	Country	Reason	Purchase value	Helpdesk	Priority	Average
+Kimberly Munoz	F	USA	Delayed shipment	21546	USA Helpdesk	High	17603.08633
+Dwayne Smith	M	Slovenia	Damaged item	34659	USA Helpdesk	High	17574.51449
+Mark Hall	M	South Korea	Damaged item	25661	China Helpdesk	High	17449.81022
+Gene Molina	M	Spain	Damaged item	2589	USA Helpdesk	High	17389.43382
+Mckenzie Lamb	F	Norway	Exchange request	22742	USA Helpdesk	High	17499.06667
+Philip Elliott	M	UK	Delayed shipment	5985	USA Helpdesk	NA	17459.9403
+Julie Walker	F	Japan	My Account	2945	China Helpdesk	NA	17546.21805
+Andrew Mendoza	M	Romania	Payment method	3448	USA Helpdesk	NA	17656.83333
+Alexander Pitts	M	Sri Lanka	Different product	34559	India Helpdesk	High	17765.29771
+Linda Burns	F	Sri Lanka	Damaged item	9437	India Helpdesk	High	17636.11538
+James Smith	M	UK	Delayed shipment	32224	USA Helpdesk	High	17699.67442
+Jennifer Edwards	F	USA	Payment method	11668	USA Helpdesk	NA	17586.20313
+Calvin Rodriguez	M	Sri Lanka	Delayed shipment	16613	India Helpdesk	NA	17632.80315
+William Cooper	M	UK	Different product	24423	USA Helpdesk	High	17640.89683
+Lorraine Daniel	F	South Korea	Delayed shipment	22413	China Helpdesk	High	17586.64
+James Kelly	M	New Zealand	My Account	31443	India Helpdesk	High	17547.71774
+Teresa Baldwin	F	USA	Delayed shipment	21205	USA Helpdesk	High	17434.74797
+Charles Moore	M	South Korea	Exchange request	25367	China Helpdesk	High	17403.84426
+Jennifer Salinas	F	Belgium	My Account	6373	USA Helpdesk	NA	17338.03306
+Jessica Clark	F	Croatia	Exchange request	13493	USA Helpdesk	NA	17429.40833
+Jenna Powell	F	Norway	Delayed shipment	9033	USA Helpdesk	NA	17462.48739
+David Craig	M	USA	Different product	33047	USA Helpdesk	High	17533.92373
+Mary Davis	F	Argentine	Delayed shipment	20303	USA Helpdesk	High	17401.33333
+Stephanie Montoya	F	Sri Lanka	Delayed shipment	29912	India Helpdesk	High	17376.31897
+Taylor Long	F	South Korea	My Account	9684	China Helpdesk	NA	17267.31304
+April Carpenter	F	USA	Damaged item	29844	USA Helpdesk	High	17333.83333
+David Lewis	M	Sri Lanka	Exchange request	12067	India Helpdesk	NA	17223.12389
+Lisa Jacobs	F	Sri Lanka	Delayed shipment	23803	India Helpdesk	High	17269.16071
+Dalton Cole	M	Japan	Damaged item	33498	China Helpdesk	High	17210.2973
+Julia Glover	F	Romania	Delayed shipment	4486	USA Helpdesk	NA	17062.22727
+Rebecca Fuller	F	South Korea	Delayed shipment	34366	China Helpdesk	High	17177.6055
+Brenda Robinson	F	Japan	Payment method	2149	China Helpdesk	NA	17018.4537
+Kevin Ashley	M	South Korea	Damaged item	32643	China Helpdesk	High	17157.42056
+Jennifer Nguyen	F	Belgium	Payment method	29365	USA Helpdesk	High	17011.33019
+Tami Burnett	F	South Korea	Damaged item	15944	China Helpdesk	High	16893.67619
+Natalie Lloyd	F	USA	My Account	5428	USA Helpdesk	NA	16902.80769
+Brandon Smith	M	Romania	My Account	31168	USA Helpdesk	High	17014.21359
+Karen Hale	F	USA	My Account	4741	USA Helpdesk	NA	16875.45098
+Andrew Lewis	M	Sri Lanka	Payment method	10104	India Helpdesk	NA	16995.59406
+Brooke Obrien	F	USA	Different product	3488	USA Helpdesk	NA	17064.51
+Tiffany Ray	F	South Korea	Payment method	30154	China Helpdesk	High	17201.64646
+Melanie Fleming	F	UK	Exchange request	32774	USA Helpdesk	High	17069.47959
+Jennifer Armstrong	F	Slovenia	Payment method	27375	USA Helpdesk	High	16907.57732
+Paul Ramsey	M	UK	My Account	16066	USA Helpdesk	NA	16798.54167
+Michael Russell	M	Spain	Damaged item	11642	USA Helpdesk	High	16806.25263
+Mr. Taylor Horn Jr.	M	Sri Lanka	Different product	9596	India Helpdesk	NA	16861.19149
+Nathan Blake	M	USA	Different product	8806	USA Helpdesk	NA	16939.31183
+Kathleen Pope	F	USA	Delayed shipment	4349	USA Helpdesk	NA	17027.71739
+Ryan Burke	M	Switzerland	Exchange request	7591	USA Helpdesk	NA	17167.04396
+Mark Flores	M	USA	Payment method	17714	USA Helpdesk	High	17273.44444
+David Rivera	M	Spain	Delayed shipment	2635	USA Helpdesk	NA	17268.49438
+Kevin Rojas	M	Spain	Exchange request	32853	USA Helpdesk	High	17434.78409
+David Dillon	M	UK	Delayed shipment	19842	USA Helpdesk	High	17257.56322
+Kelly Cisneros	F	South Korea	Different product	20365	China Helpdesk	High	17227.51163
+Alexis Cannon	F	New Zealand	Different product	1607	India Helpdesk	NA	17190.6
+Mr. Carlos Schneider	M	UK	Damaged item	8733	USA Helpdesk	High	17376.11905
+Michelle Pratt	F	USA	Payment method	25782	USA Helpdesk	High	17480.25301
+Rachel Clark	F	Japan	Payment method	18886	China Helpdesk	High	17379.0122
+Tanya Simpson	F	Romania	Damaged item	14239	USA Helpdesk	High	17360.40741
+Sherry Collins	F	UK	Payment method	26043	USA Helpdesk	High	17399.425
+Felicia Edwards	F	USA	Exchange request	27761	USA Helpdesk	High	17290.01266
+Linda Diaz	F	South Korea	Exchange request	13854	China Helpdesk	NA	17155.76923
+Olivia Wells	F	UK	Delayed shipment	2441	USA Helpdesk	NA	17198.64935
+Carmen White	F	Japan	My Account	432	China Helpdesk	NA	17392.82895
+Adam Simpson	M	USA	Delayed shipment	24677	USA Helpdesk	High	17618.97333
+Michelle Wilson	F	Belgium	Damaged item	7997	USA Helpdesk	High	17523.59459
+Julia Mccoy	F	Sri Lanka	Damaged item	13227	India Helpdesk	High	17654.09589
+Christopher Harris	M	Sri Lanka	Damaged item	10051	India Helpdesk	High	17715.58333
+Samantha Wilson	F	Sri Lanka	Exchange request	11966	India Helpdesk	NA	17823.53521
+Kelli Collins	F	UK	Payment method	24382	USA Helpdesk	High	17907.21429
+Erica Goodwin	F	USA	Delayed shipment	6102	USA Helpdesk	NA	17813.37681
+Andrea Cruz	F	USA	Payment method	15631	USA Helpdesk	NA	17985.60294
+Jacqueline Davila	F	Sri Lanka	Payment method	8254	India Helpdesk	NA	18020.74627
+Ann Lee	F	Japan	Damaged item	24095	China Helpdesk	High	18168.72727
+Rebecca Rogers	F	UK	Damaged item	12583	USA Helpdesk	High	18077.55385
+John Macias	M	Wales	Delayed shipment	16453	India Helpdesk	NA	18163.40625
+Kathryn Baker	F	Sri Lanka	Delayed shipment	9627	India Helpdesk	NA	18190.55556
+Carrie Buck	F	Austria	Exchange request	17916	USA Helpdesk	NA	18328.67742
+Candice Wright	F	South Korea	Damaged item	18677	China Helpdesk	High	18335.44262
+Matthew Gordon	M	UK	Different product	24578	USA Helpdesk	High	18329.75
+Samuel Bennett	M	UK	Delayed shipment	22342	USA Helpdesk	High	18223.84746
+Timothy Lam	M	Sri Lanka	Different product	13992	India Helpdesk	NA	18152.84483
+Denise Branch	F	Finland	Damaged item	16958	USA Helpdesk	High	18225.84211
+Kelly Mitchell	F	South Korea	Payment method	18651	China Helpdesk	High	18248.48214
+John Nguyen	M	South Korea	Damaged item	22136	China Helpdesk	High	18241.16364
+Michele Ochoa	F	USA	Different product	16158	USA Helpdesk	NA	18169.03704
+Maria Pham	F	UK	Damaged item	3196	USA Helpdesk	High	18206.98113
+Andrea Phillips	F	Poland	Exchange request	16589	USA Helpdesk	NA	18495.65385
+Tracie Sawyer	F	South Korea	Exchange request	30689	China Helpdesk	High	18533.03922
+Steven Mckinney	M	Japan	Damaged item	2184	China Helpdesk	High	18289.92
+Jeffrey Wheeler	M	UK	Payment method	19026	USA Helpdesk	High	18618.61224
+Joshua Benson	M	Wales	Payment method	14124	India Helpdesk	NA	18610.125
+Erik Lewis	M	Romania	Payment method	13722	USA Helpdesk	NA	18705.57447
+Suzanne Blankenship	F	UK	Different product	20936	USA Helpdesk	High	18813.91304
+Allison Smith MD	F	Spain	Different product	18923	USA Helpdesk	High	18766.75556
+Alicia Dillon	F	USA	Delayed shipment	28234	USA Helpdesk	High	18763.20455
+Elizabeth Wilson	F	Sri Lanka	Damaged item	3976	India Helpdesk	High	18542.95349
+Marissa Hartman	F	South Korea	Payment method	4768	China Helpdesk	NA	18889.78571
+Frank Smith	M	Sri Lanka	Delayed shipment	15905	India Helpdesk	NA	19234.21951
+Megan Lamb	F	Portugal	My Account	12473	USA Helpdesk	NA	19317.45
+Melissa Miller	F	South Korea	Delayed shipment	19306	China Helpdesk	NA	19492.94872
+Nicole Anderson	F	Slovenia	My Account	33609	USA Helpdesk	High	19497.86842
+Erin Fritz	F	Portugal	Payment method	10824	USA Helpdesk	NA	19116.48649
+Michelle Knight	F	South Korea	Payment method	1158	China Helpdesk	NA	19346.83333
+Tiffany Lynch	F	Russia	My Account	26317	USA Helpdesk	High	19866.51429
+Stephanie Buckley	F	Russia	My Account	32053	USA Helpdesk	High	19676.79412
+Lauren Thomas	F	UK	Exchange request	23949	USA Helpdesk	High	19301.75758
+Destiny Conrad	F	Sri Lanka	Damaged item	4461	India Helpdesk	High	19156.53125
+Jennifer Roberts	F	Spain	Exchange request	30372	USA Helpdesk	High	19630.58065
+Adam Hebert	M	South Korea	Payment method	3443	China Helpdesk	NA	19272.53333
+Samantha Taylor	F	UK	Damaged item	9297	USA Helpdesk	High	19818.37931
+Douglas Salas	M	USA	Payment method	11752	USA Helpdesk	NA	20194.14286
+John Potter	M	UK	Exchange request	22349	USA Helpdesk	High	20506.81481
+Daniel Campbell	M	Chile	Exchange request	14984	USA Helpdesk	NA	20435.96154
+Stephanie Lewis	F	Wales	Payment method	8351	India Helpdesk	NA	20654.04
+Dana Kim	F	USA	My Account	34441	USA Helpdesk	High	21166.66667
+James George	M	Japan	Payment method	8893	China Helpdesk	NA	20589.52174
+Stephanie Carter	F	USA	Damaged item	22655	USA Helpdesk	High	21121.18182
+Allison Kim	F	South Korea	Delayed shipment	22816	China Helpdesk	High	21048.14286
+Donna Kelly	F	South Korea	Delayed shipment	31814	China Helpdesk	High	20959.75
+Caitlyn Jackson	F	South Korea	Exchange request	21134	China Helpdesk	High	20388.47368
+Kevin Henson	M	UK	Delayed shipment	12834	USA Helpdesk	NA	20347.05556
+Adam Anderson	M	UK	Exchange request	30043	USA Helpdesk	High	20789
+Chelsea Wise	F	Spain	Damaged item	10237	USA Helpdesk	High	20210.625
+Eric Pham	M	UK	Delayed shipment	11824	USA Helpdesk	NA	20875.53333
+Susan Patrick	F	Belgium	Exchange request	32862	USA Helpdesk	High	21522.07143
+Jonathan Roberts	M	UK	My Account	22036	USA Helpdesk	High	20649.76923
+Robert Donovan	M	South Korea	My Account	25109	China Helpdesk	High	20534.25
+Stephanie Matthews	F	Sri Lanka	Exchange request	31519	India Helpdesk	High	20118.36364
+Andrew Johnson	M	Wales	Damaged item	30925	India Helpdesk	High	18978.3
+Selena Griffin	F	Sri Lanka	Exchange request	23192	India Helpdesk	High	17650.88889
+Joy Wagner	F	USA	Exchange request	6062	USA Helpdesk	NA	16958.25
+Aaron Hicks	M	Spain	Damaged item	34679	USA Helpdesk	High	18514.85714
+Scott Smith	M	Poland	My Account	911	USA Helpdesk	NA	15820.83333
+Stacey West	F	UK	Damaged item	15516	USA Helpdesk	High	18802.8
+Mary Hamilton	F	Spain	My Account	29614	USA Helpdesk	High	19624.5
+Nicole Bowman	F	Austria	Different product	28107	USA Helpdesk	High	16294.66667
+Anthony Thompson	M	USA	Payment method	6995	USA Helpdesk	NA	10388.5
+Veronica Hurley	F	Sri Lanka	Delayed shipment	13782	India Helpdesk	NA	13782
